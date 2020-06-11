@@ -1,0 +1,4 @@
+.cache
+dist
+server/config
+node_modules
